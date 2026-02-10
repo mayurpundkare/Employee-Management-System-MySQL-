@@ -1,4 +1,4 @@
-# Employee-Management-Sysytem-MySQL-
+# Employee-Management-System-MySQL-
 **Project Overview**
 
 * The Employee Management System is a SQL-based database project designed to manage and organize employee information within an organization.
