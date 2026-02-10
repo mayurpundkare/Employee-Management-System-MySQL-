@@ -34,7 +34,9 @@
 **Technology Used**
 
 🔹Database: MySQL
+
 🔹Query Language: SQL
+
 🔹Tool: MySQL Workbench 
 
 **Key Concepts Covered**
