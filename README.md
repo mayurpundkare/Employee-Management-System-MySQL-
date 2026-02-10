@@ -7,8 +7,10 @@ Project Overview
 
 🎯 Project Objectives
 
-🔹Design a structured relational database for employee management
-🔹Store and manage employee, department, and role data
+🔹Design a structured relational database for employee management.
+
+🔹Store and manage employee, department, and role data.
+
 🔹Perform CRUD (Create, Read, Update, Delete) operations
 🔹Retrieve meaningful insights using SQL queries
 🔹Practice real-world database management concepts
